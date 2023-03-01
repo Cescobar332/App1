@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="nombre">Carlos Fernando Escobar Silva</string>
+    <string name="id_universidad">U00056221</string>
+    <string name="numero">3166071650 (+57)</string>
+    <string name="github">Cescobar332</string>
+    <string name="correo">cescobar332@unab.edu.co</string>
+    <string name="hint_edittext">Digite una frase</string>
+</resources>
